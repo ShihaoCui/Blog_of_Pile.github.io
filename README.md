@@ -10,11 +10,15 @@ Two examples are given as follows:
 2. Phase difference of the collected to signals.
 3. Dispersion relation builing based on the guided wave model.
 4. The dispersion analysis diagram (**DAD**) plotting.
-5. Pile length estimation based on the parameter obtained from the DAD.
+5. Pile length estimation based on the parameter obtained from the **DAD**.
 
 
+The following will show the above process by two cases; **Case 1:** The pile length estimation using two signals collected on the lateral side; **Case 2:** The pile length estimation using two signals collected on the top surface.
 
+### **Case 1:** The pile length estimation using two signals collected on the lateral side.
+![image](https://user-images.githubusercontent.com/50115572/174653822-fbad5e1b-7863-46e2-a908-3c458bea7235.png)
 
+### **Case 2:** The pile length estimation using two signals collected on the top surface.
 
 You can use the [editor on GitHub](https://github.com/ShihaoCui/Blog_of_Pile.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
