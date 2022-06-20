@@ -1,4 +1,20 @@
-## Welcome to GitHub Pages
+## Pile length estimation based on the guided wave model-based dispersion analysis using two signals 
+
+This blog is to show the process of pile length estimation using two signals, which can be collected on lateral side or the top surface of the pile under inverstigation, based on the guided wave model. 
+
+The process can be divided into five steps.
+
+Two examples are given as follows:
+
+1. Data acquisition. Two signals can be collected on the lateral side or the top surface.
+2. Phase difference of the collected to signals.
+3. Dispersion relation builing based on the guided wave model.
+4. The dispersion analysis diagram (**DAD**) plotting.
+5. Pile length estimation based on the parameter obtained from the DAD.
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/ShihaoCui/Blog_of_Pile.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
