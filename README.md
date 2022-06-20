@@ -96,7 +96,7 @@ There is
 
 $L= 2*\pi/P_w$ _t , 
 
-In this case, $P_wt = 0.401$, therefore the estimated $L = 15.67 m$, and the estimation error is $4.4$%.
+In this case, $P_w$ _t = 0.401, therefore the estimated $L = 15.67 m$, and the estimation error is $4.4$%.
 
 
 
