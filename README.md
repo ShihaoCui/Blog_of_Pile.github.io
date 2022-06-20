@@ -21,7 +21,8 @@ The schematic diagram of the sensor position, in this case, is shown in the abov
 
 - **Step 1:** Data acquisition on the lateral side.
 
-The data is collected on a pile with Length L = 15 m; **Sensor 1** is collected on the position $L_1$; **Sensor 2** is collected on the position $L_2$. There, $L_1 = 14.5m$, $L_2 = 14.2m$, and the difference between two sensors $\Delta L = 0.3m$. The two signals are shown in the following figure.
+The data is collected on a pile with Length L = 15 m; **Sensor 1** is collected on the position $L_1$; **Sensor 2** is collected on the position $L_2$. There, $L_1 = 14.5m$, $L_2 = 14.2m$, and the difference between two sensors 
+$\Delta L = 0.3m$. The two signals are shown in the following figure.
 
 ![image](https://user-images.githubusercontent.com/50115572/174653822-fbad5e1b-7863-46e2-a908-3c458bea7235.png)
 
