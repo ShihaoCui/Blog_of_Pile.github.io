@@ -16,7 +16,10 @@ Two examples are given as follows:
 The following will show the above process by two cases; **Case 1:** The pile length estimation using two signals collected on the lateral side; **Case 2:** The pile length estimation using two signals collected on the top surface.
 
 ### **Case 1:** The pile length estimation using two signals collected on the lateral side.
+
 ![image](https://user-images.githubusercontent.com/50115572/174653822-fbad5e1b-7863-46e2-a908-3c458bea7235.png)
+The schematic digram of the sensor position in this case.
+
 
 ### **Case 2:** The pile length estimation using two signals collected on the top surface.
 
